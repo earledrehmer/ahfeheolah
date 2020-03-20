@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gifemuutu.kogit.co/sitemap.xml
